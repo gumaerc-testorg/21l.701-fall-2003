@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-701-literary-interpretation-interpreting-poetry-fall-2003/7aa074e3a66bdee7202a02a979e60e1f_lecture2.pdf
+file: /media/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/7aa074e3a66bdee7202a02a979e60e1f_lecture2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: lecture2.pdf
 uid: 7aa074e3-a66b-dee7-202a-02a979e60e1f

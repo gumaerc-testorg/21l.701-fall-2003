@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Footnoted by A.C. Kibel
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-701-literary-interpretation-interpreting-poetry-fall-2003/8223c76b5f357cebcf2e2939b632104d_lecture4.pdf
+file: /media/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/8223c76b5f357cebcf2e2939b632104d_lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: lecture4.pdf
 uid: 8223c76b-5f35-7ceb-cf2e-2939b632104d
