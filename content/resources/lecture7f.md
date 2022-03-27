@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4a8e09cf-6e66-d8c1-78e7-e931ebf4c299
 resourcetype: Document
 title: lecture7f.pdf
 uid: 5365783a-67a0-b33c-5ae5-06a8b82c114c
