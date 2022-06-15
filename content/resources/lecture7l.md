@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/fb301d7a081a75f9e08d680c39b418da_lecture7l.pdf
+file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/fb301d7a081a75f9e08d680c39b418da_lecture7l.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
