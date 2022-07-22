@@ -5,6 +5,7 @@ file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/78f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paperassignment3.pdf
 uid: 78f8ad8c-ffed-09c7-a0fc-429b12bf8ccd
 ---
 Third Paper
-

@@ -5,6 +5,7 @@ file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/017
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

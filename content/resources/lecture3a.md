@@ -5,6 +5,7 @@ file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/5e9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture3a.pdf
 uid: 5e97db13-8cd2-350c-952c-7aa845a4dd56
 ---
 Translated by Ingram Bywater
-
