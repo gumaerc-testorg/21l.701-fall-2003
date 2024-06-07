@@ -2,6 +2,7 @@
 content_type: resource
 description: Footnoted by A.C. Kibel
 file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/8223c76b5f357cebcf2e2939b632104d_lecture4.pdf
+file_size: 76332
 file_type: application/pdf
 learning_resource_types:
 - Readings
