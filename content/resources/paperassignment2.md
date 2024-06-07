@@ -2,6 +2,7 @@
 content_type: resource
 description: Second Paper
 file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/4ff94c58d435f41c63282aaef9ca46fb_paperassignment2.pdf
+file_size: 23479
 file_type: application/pdf
 learning_resource_types:
 - Assignments
