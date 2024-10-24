@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading list and discussion questions
-file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/51d5c6f633d36985805422b21c3d0b1a_readingassignments.pdf
+file: /ol-ocw-studio-app/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/51d5c6f633d36985805422b21c3d0b1a_readingassignments.pdf
 file_size: 85543
 file_type: application/pdf
 learning_resource_types:
