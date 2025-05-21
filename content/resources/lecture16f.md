@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/cd59256dbc8fc4e527f5337017cd0e38_lecture16f.pdf
+file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/cd59256dbc8fc4e527f5337017cd0e38_lecture16f.pdf
 file_size: 11384
 file_type: application/pdf
 learning_resource_types:
