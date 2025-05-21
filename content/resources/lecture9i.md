@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: To my lord Fairfax
-file: /ol-ocw-studio-app/courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/5953c7fb1a40e450791fad9182bbf51f_lecture9i.pdf
+file: /courses/21l-701-literary-interpretation-interpreting-poetry-fall-2003/5953c7fb1a40e450791fad9182bbf51f_lecture9i.pdf
 file_size: 66251
 file_type: application/pdf
 learning_resource_types:
